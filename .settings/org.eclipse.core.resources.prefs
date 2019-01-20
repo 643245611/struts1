@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//src/cn/itheima/dao/CustomerDao.java=UTF-8
+encoding//src/cn/itheima/dao/LinkManDao.java=UTF-8
+encoding//src/cn/itheima/dao/impl/CustomerDaoImpl.java=UTF-8
+encoding//src/cn/itheima/dao/impl/LinkManDaoImpl.java=UTF-8
+encoding//src/cn/itheima/dao/impl/UserDaoImpl.java=UTF-8
+encoding//src/cn/itheima/domain/Customer.java=UTF-8
+encoding//src/cn/itheima/domain/LinkMan.java=UTF-8
+encoding//src/cn/itheima/service/CustomerService.java=UTF-8
+encoding//src/cn/itheima/service/LinkManService.java=UTF-8
+encoding//src/cn/itheima/service/impl/CustomerServiceImpl.java=UTF-8
+encoding//src/cn/itheima/service/impl/LinkManServiceImpl.java=UTF-8
+encoding//src/cn/itheima/utils/HibernateUtils.java=UTF-8
+encoding//src/cn/itheima/web/action/CustomerAction.java=UTF-8
